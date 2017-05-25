@@ -1,0 +1,8 @@
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb

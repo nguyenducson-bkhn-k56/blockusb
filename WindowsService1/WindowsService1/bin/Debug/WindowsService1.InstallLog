@@ -1,0 +1,643 @@
+﻿Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Creating EventLog source Service_Test_USB in log Application...
+Rolling back assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service_Test_USB.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Creating EventLog source Service_Test_USB in log Application...
+Rolling back assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service_Test_USB.
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Attempt to stop service Service_Test_USB.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Attempt to stop service Service_Test_USB.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Attempt to stop service Service_Test_USB.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Attempt to stop service Service_Test_USB.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Creating EventLog source Service_Test_USB in log Application...
+Rolling back assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service_Test_USB.
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Attempt to stop service Service_Test_USB.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Creating EventLog source Service_Test_USB in log Application...
+Rolling back assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service_Test_USB.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Creating EventLog source Service_Test_USB in log Application...
+Rolling back assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service_Test_USB.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Creating EventLog source Service_Test_USB in log Application...
+Rolling back assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service_Test_USB.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Creating EventLog source Service_Test_USB in log Application...
+Rolling back assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service_Test_USB.
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Warning: The source Service_Test_USB is not registered on the local machine.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Creating EventLog source Service_Test_USB in log Application...
+Rolling back assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service_Test_USB.
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Warning: The source Service_Test_USB is not registered on the local machine.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Attempt to stop service Service_Test_USB.
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Warning: The source Service_Test_USB is not registered on the local machine.
+Service Service_Test_USB is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Attempt to stop service Service_Test_USB.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Creating EventLog source Service_Test_USB in log Application...
+Rolling back assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service_Test_USB.
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Attempt to stop service Service_Test_USB.
+Installing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service_Test_USB...
+Service Service_Test_USB has been successfully installed.
+Creating EventLog source Service_Test_USB in log Application...
+Committing assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service_Test_USB.
+Service Service_Test_USB is being removed from the system...
+Service Service_Test_USB was successfully removed from the system.
+Attempt to stop service Service_Test_USB.

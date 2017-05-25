@@ -1,0 +1,10 @@
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsFormsApplication1\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsFormsApplication1\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AKBSoft-01\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
