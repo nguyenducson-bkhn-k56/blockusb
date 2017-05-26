@@ -50,11 +50,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Cheduler.cs">
+    <Compile Include="DataProcess.cs" />
+    <Compile Include="ServiceMain.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Cheduler.Designer.cs">
-      <DependentUpon>Cheduler.cs</DependentUpon>
+    <Compile Include="ServiceMain.Designer.cs">
+      <DependentUpon>ServiceMain.cs</DependentUpon>
     </Compile>
     <Compile Include="HardwareHelperLib.cs" />
     <Compile Include="Library.cs" />
@@ -105,6 +106,7 @@
     <Reference Include="System.configuration" />
     <Reference Include="System.Configuration.Install" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Security" />
     <Reference Include="System.ServiceProcess" />
   </ItemGroup>
   <ItemGroup>

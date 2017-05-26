@@ -9,8 +9,18 @@ using System.Text.RegularExpressions;
 
 namespace WindowsFormsApplication1
 {
+    public class Device {
+        public String nameDevice { get; set; }
+
+        public String pidDevice { get; set; }
+
+        public String vidDevice { get; set; }
+    }
+
     public class Process
     {
+        private const String nameFolder = "/local/UsbConnection/";
+        private const String nameFileDevice = "data.dat";
         // instance la thuc the 
         private static Process instance;
         private String folderPath = null;
@@ -155,5 +165,78 @@ namespace WindowsFormsApplication1
             return sBuilder.ToString();
         }
 
+        public Boolean editFileDevice(List<Device> lstDevice){
+            try
+            {
+                String pathAppfolder = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+                String filePath = pathAppfolder + nameFolder + nameFileDevice;
+                if (Directory.Exists(pathAppfolder + nameFolder)) {
+                    Directory.CreateDirectory(pathAppfolder + nameFolder);
+                }
+                using (StreamWriter writer = File.Exists(filePath) ? File.AppendText(filePath): File.CreateText(filePath)) {
+                    // remove all file 
+                    File.WriteAllText(filePath, String.Empty);
+                    // write all data to file
+                    if (lstDevice != null && lstDevice.Count > 0)
+                    {
+                        foreach (Device device in lstDevice)
+                        {
+                            StringBuilder line = new StringBuilder();
+                            line.Append(device.nameDevice);
+                            line.Append(' ');
+                            line.Append(device.pidDevice);
+                            line.Append(' ');
+                            line.Append(device.vidDevice);
+                            writer.WriteLine(line.ToString());
+                        }
+                    }                    
+                    writer.Close();
+                    writer.Dispose();
+                }
+                
+            }
+            catch (Exception ex) { 
+                
+            }
+            return false;
+        }
+
+        /***
+         * lay danh sach cac thiet bi
+         */ 
+        public List<Device> getAllDevice() {
+            List<Device> lstDevice = new List<Device>();
+            try
+            {
+                String pathAppfolder = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+                String filePath = pathAppfolder + nameFolder + nameFileDevice;
+                if (!File.Exists(filePath)) {
+                    return null;
+                }
+                StreamReader reader = new StreamReader(filePath);
+                String allData = reader.ReadToEnd().Replace("\n\r","==").Replace("\r\n","==");
+                String[] allLine = Regex.Split(allData, "==");
+                if (allLine != null && allLine.Count() > 0) {
+                    foreach (String line in allLine) {
+                        Device device = new Device();
+                        String[] infoDevice  = line.Split(' ');
+                        try
+                        {
+                           device.nameDevice =  infoDevice[0];
+                           device.pidDevice = infoDevice[1];
+                           device.vidDevice = infoDevice[2];
+                           lstDevice.Add(device);
+                        }
+                        catch (IndexOutOfRangeException ex) { 
+                            // logger
+                        }
+                    }  
+                }
+            }
+            catch (Exception ex) { 
+
+            }
+            return lstDevice;
+        } 
     }
 }

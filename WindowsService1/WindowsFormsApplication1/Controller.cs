@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Data;
 namespace WindowsFormsApplication1
 {
     class Controller
@@ -27,11 +27,24 @@ namespace WindowsFormsApplication1
         /**
          * 
          */
-        public Boolean AddDevice(String deviceName, String pidDevice, String vidDevice) {
-            Boolean result = false;
+        public Boolean EditDevice(DataTable tableDevice)
+        {
             /**
              * code process
              */ 
+            Boolean result = false;
+            Process process = Process.getInstance();
+            if (tableDevice == null)
+                return false;
+            List<Device> lstDevice = new List<Device>();
+            foreach (DataRow row in tableDevice.Rows) {
+                Device device = new Device();
+                device.nameDevice = row[Constant.DeviceTable.DEVICE_NAME].ToString();
+                device.pidDevice = row[Constant.DeviceTable.DEVICE_PID].ToString();
+                device.vidDevice = row[Constant.DeviceTable.DEVICE_VID].ToString();
+                lstDevice.Add(device);
+            }
+            process.editFileDevice(lstDevice);
             return result;
         }
 
@@ -40,6 +53,7 @@ namespace WindowsFormsApplication1
          */
         public Boolean RemoveDevice(String pidDevice,String vidDevice) {
             Boolean result = false;
+
             /**
              * code process
              */
@@ -52,6 +66,20 @@ namespace WindowsFormsApplication1
         public Boolean RemoveDevice(int index)
         {
             Boolean result = false;
+            /**
+             * code process
+             */
+            return result;
+        }
+
+        /**
+         * 
+         */
+        public Boolean getAllDevice(int index)
+        {
+            Boolean result = false;
+            Process process = Process.getInstance();
+            
             /**
              * code process
              */

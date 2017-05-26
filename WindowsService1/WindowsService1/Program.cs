@@ -15,7 +15,7 @@ namespace WindowsService1
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[] 
             { 
-                new Cheduler() 
+                new ServiceMain() 
             };
             ServiceBase.Run(ServicesToRun);
         }

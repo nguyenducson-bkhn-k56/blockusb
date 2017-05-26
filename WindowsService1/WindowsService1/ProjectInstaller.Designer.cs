@@ -39,7 +39,8 @@
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.ServiceName = "Service_Test_USB";
+            this.serviceInstaller1.ServiceName = "ServiceUsbConnect";
+            this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             this.serviceInstaller1.AfterInstall += new System.Configuration.Install.InstallEventHandler(this.serviceInstaller1_AfterInstall);
             // 
             // ProjectInstaller
