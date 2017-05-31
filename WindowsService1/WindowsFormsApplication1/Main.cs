@@ -50,7 +50,6 @@ namespace WindowsFormsApplication1
         private void remove_Click(object sender, EventArgs e)
         {
             tableDevice.Rows.RemoveAt(dataGridView1.CurrentRow.Index);
-            //tableDevice.Clear();
         }
 
         private Boolean fillGridData() {
@@ -72,6 +71,11 @@ namespace WindowsFormsApplication1
             else {
                 MessageBox.Show(this, "Error");
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
 
     }

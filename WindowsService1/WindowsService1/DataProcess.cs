@@ -11,6 +11,8 @@ namespace WindowsService1
         public String pidDevice { get; set; }
         public String vidDevice { get; set; }
         public Boolean state { get; set; }
+
+        public int numberCalled { get; set; }
     }
 
     public class DeviceProcess
@@ -39,6 +41,7 @@ namespace WindowsService1
         public void getLstDeviceAllow(){
             try
             {
+       
                 lstDeviceAllow.Clear();
                 String pathAppfolder = Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData);
                 String filePath = pathAppfolder + nameFolder + nameFileDevice;
@@ -100,6 +103,7 @@ namespace WindowsService1
             }
             catch (Exception ex)
             { 
+
             }
             return false;
         }

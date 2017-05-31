@@ -10,6 +10,8 @@ using System.Runtime.InteropServices;
 using System.IO;
 using HardwareHelperLib;
 using System.Threading;
+using System.Net.Http;
+using System.Net;
 
 namespace WindowsService1
 {
@@ -17,7 +19,7 @@ namespace WindowsService1
     public partial class ServiceMain : ServiceBase
     {
 
-
+        String data;
         #region Fields
 
 		private FileSystemWatcher fileSystemWatcher;
@@ -27,6 +29,7 @@ namespace WindowsService1
 		private Win32.ServiceControlHandlerEx myCallback;
         private List<Device> lstDevice;
         private Thread threadMain;
+        private int maxApiCalled;
         
         #endregion
 
@@ -44,63 +47,67 @@ namespace WindowsService1
                 }
                 else if (control == Win32.SERVICE_CONTROL_DEVICEEVENT)
                 {
-                    switch (eventType)
-                    {
-                        case Win32.DBT_DEVICEARRIVAL:
-                            Win32.DEV_BROADCAST_HDR hdr;
-                            hdr = (Win32.DEV_BROADCAST_HDR)
-                                Marshal.PtrToStructure(eventData, typeof(Win32.DEV_BROADCAST_HDR));
-                            if (hdr.dbcc_devicetype == Win32.DBT_DEVTYP_DEVICEINTERFACE)
-                            {
-                                Win32.DEV_BROADCAST_DEVICEINTERFACE deviceInterface;
-                                deviceInterface = (Win32.DEV_BROADCAST_DEVICEINTERFACE)
-                                    Marshal.PtrToStructure(eventData, typeof(Win32.DEV_BROADCAST_DEVICEINTERFACE));
-                                //Save Device name
-                                String deviceName = new string(deviceInterface.dbcc_name);
-                                if (deviceName != null && deviceName.Contains("VID"))
+                    lock (threadMain) {
+                        switch (eventType)
+                        {
+                            case Win32.DBT_DEVICEARRIVAL:
+                                Win32.DEV_BROADCAST_HDR hdr;
+                                hdr = (Win32.DEV_BROADCAST_HDR)
+                                    Marshal.PtrToStructure(eventData, typeof(Win32.DEV_BROADCAST_HDR));
+                                if (hdr.dbcc_devicetype == Win32.DBT_DEVTYP_DEVICEINTERFACE)
                                 {
-                                    DeviceProcess deviceProcess = DeviceProcess.getInstance();
-                                    deviceProcess.getLstDeviceAllow();
-                                    Device device = new Device();
-                                    device.nameDevice = deviceName;
-                                    device.state = false;
-                                    device.pidDevice = deviceName.Substring(deviceName.IndexOf("PID"), 8);
-                                    device.vidDevice = deviceName.Substring(deviceName.IndexOf("VID"), 8);
-                                    if (!deviceProcess.isAllowDivice(device)) {
-                                        lstDevice.Add(device);
+                                    Win32.DEV_BROADCAST_DEVICEINTERFACE deviceInterface;
+                                    deviceInterface = (Win32.DEV_BROADCAST_DEVICEINTERFACE)
+                                        Marshal.PtrToStructure(eventData, typeof(Win32.DEV_BROADCAST_DEVICEINTERFACE));
+                                    //Save Device name
+                                    String deviceName = new string(deviceInterface.dbcc_name);
+                                    if (deviceName != null && deviceName.Contains("VID"))
+                                    {
+                                        DeviceProcess deviceProcess = DeviceProcess.getInstance();
+                                        deviceProcess.getLstDeviceAllow();
+                                        Device device = new Device();
+                                        device.nameDevice = deviceName;
+                                        device.state = false;
+                                        device.pidDevice = deviceName.Substring(deviceName.IndexOf("PID"), 8);
+                                        device.vidDevice = deviceName.Substring(deviceName.IndexOf("VID"), 8);
+                                        if (!deviceProcess.isAllowDivice(device) && !existDevice(device))
+                                        {
+                                            lstDevice.Add(device);
+                                        }
                                     }
                                 }
-                            }
-                            break;
-                        case Win32.DBT_DEVICEQUERYREMOVE:
-                            UnregisterHandles();
-                            fileSystemWatcher.EnableRaisingEvents = false;
-                            break;
-                        case Win32.DBT_DEVNODESCHANGED:
-                            hdr = (Win32.DEV_BROADCAST_HDR)
-                                Marshal.PtrToStructure(eventData, typeof(Win32.DEV_BROADCAST_HDR));
-                            if (hdr.dbcc_devicetype == Win32.DBT_DEVTYP_DEVICEINTERFACE)
-                            {
-                                Win32.DEV_BROADCAST_DEVICEINTERFACE deviceInterface;
-                                deviceInterface = (Win32.DEV_BROADCAST_DEVICEINTERFACE)
-                                    Marshal.PtrToStructure(eventData, typeof(Win32.DEV_BROADCAST_DEVICEINTERFACE));
-                                //Save Device name
-                                String deviceName = new string(deviceInterface.dbcc_name);
-                                if (deviceName != null && deviceName.Contains("VID"))
+                                break;
+                            case Win32.DBT_DEVICEQUERYREMOVE:
+                                UnregisterHandles();
+                                fileSystemWatcher.EnableRaisingEvents = false;
+                                break;
+                            case Win32.DBT_DEVNODESCHANGED:
+                                hdr = (Win32.DEV_BROADCAST_HDR)
+                                    Marshal.PtrToStructure(eventData, typeof(Win32.DEV_BROADCAST_HDR));
+                                if (hdr.dbcc_devicetype == Win32.DBT_DEVTYP_DEVICEINTERFACE)
                                 {
-                                    DeviceProcess deviceProcess = DeviceProcess.getInstance();
-                                    deviceProcess.getLstDeviceAllow();
-                                    Device device = new Device();
-                                    device.nameDevice = deviceName;
-                                    device.state = false;
-                                    device.pidDevice = deviceName.Substring(deviceName.IndexOf("PID"), 8);
-                                    device.vidDevice = deviceName.Substring(deviceName.IndexOf("VID"), 8);
-                                    if (!deviceProcess.isAllowDivice(device)) {
-                                        lstDevice.Add(device);
+                                    Win32.DEV_BROADCAST_DEVICEINTERFACE deviceInterface;
+                                    deviceInterface = (Win32.DEV_BROADCAST_DEVICEINTERFACE)
+                                        Marshal.PtrToStructure(eventData, typeof(Win32.DEV_BROADCAST_DEVICEINTERFACE));
+                                    //Save Device name
+                                    String deviceName = new string(deviceInterface.dbcc_name);
+                                    if (deviceName != null && deviceName.Contains("VID"))
+                                    {
+                                        DeviceProcess deviceProcess = DeviceProcess.getInstance();
+                                        deviceProcess.getLstDeviceAllow();
+                                        Device device = new Device();
+                                        device.nameDevice = deviceName;
+                                        device.state = false;
+                                        device.pidDevice = deviceName.Substring(deviceName.IndexOf("PID"), 8);
+                                        device.vidDevice = deviceName.Substring(deviceName.IndexOf("VID"), 8);
+                                        if (!deviceProcess.isAllowDivice(device))
+                                        {
+                                            lstDevice.Add(device);
+                                        }
                                     }
                                 }
-                            }
-                            break;
+                                break;
+                        }
                     }
                 }
             }
@@ -110,6 +117,17 @@ namespace WindowsService1
             
 			return 0;
 		}
+
+        public Boolean existDevice(Device newDevice){
+            Boolean result = false;
+            foreach (Device device in lstDevice) {
+                if (device.pidDevice == newDevice.pidDevice && device.vidDevice == newDevice.vidDevice) {
+                    result = true;
+                    break;
+                }
+            }
+            return result;
+        }
 
 		private void UnregisterHandles()
 		{
@@ -175,6 +193,9 @@ namespace WindowsService1
             {
                     for (int i = 0; i < lstDevice.Count; i++) {
                         Device device = lstDevice[i];
+                        if (device.numberCalled > maxApiCalled)
+                        { 
+                        }
                         StringBuilder devicePid = new StringBuilder();
                         devicePid.Append(device.vidDevice);
                         devicePid.Append("&");
@@ -244,6 +265,21 @@ namespace WindowsService1
 		protected override void OnStart(string[] args)
 		{
 			base.OnStart(args);
+            try
+            {
+                HttpClient client = new HttpClient();
+                client.BaseAddress = new Uri("http://localhost:7005/");
+                HttpResponseMessage response = client.GetAsync("usbService/getData").Result;
+                if (response.StatusCode == HttpStatusCode.OK)
+                {
+                    HttpContent content = response.Content;
+                    data = content.ToString();
+                }
+            }
+            catch (Exception ex) { 
+                
+            }
+             
             RegisterDeviceNotification();
 			fileSystemWatcher = new FileSystemWatcher();
             threadMain = new Thread(new ThreadStart(this.BlockUsb));
